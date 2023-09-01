@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 700 my_dir
+mkdir 755 my_dir
