@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  --reference=hello oleh
+chmod --reference=10-mirror_permissions hello olleh
