@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -500 my_dir
-
+mkdir 700 my_dir
